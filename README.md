@@ -93,7 +93,7 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/ahmed-dabish-14b758230" target="_blank">
+  <a href="[www.linkedin.com/in/ahmed-dabish-14b758230](https://www.linkedin.com/in/ahmed-dabish-14b758230/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ahmeddabish99@gmail.com" target="_blank">
