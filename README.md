@@ -12,7 +12,6 @@
  
 ## 💫 About Me
 
-
 - 🧑‍💻 I'm a **Software Engineer** and a **graduate of the Faculty of Computers and Information, Kafr El-Sheikh University**.  
 - ⚙️ I specialize in **Back-end Development** using **ASP.NET Core Web APIs**, following **Clean Architecture principles**.  
 - 🧠 I also have experience in **Artificial Intelligence (AI)** and love applying AI concepts to build **intelligent systems and APIs**.  
