@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Ahmed%20Abd%20El-Aty%20Dabish;Backend%20Developer%20%7C%20.NET%20Developer&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&color2=0072FF&vCenter=true&size=24" alt="Typing SVG" />
 </p>
 
+
 ## 💫 About Me
 
 - 🧑‍💻 I'm a **Software Engineer** and a **graduate of the Faculty of Computers and Information, Kafr El-Sheikh University**.  
