@@ -1,40 +1,49 @@
-<!-- Header -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Ahmed Abd El-Aty Dabish</span></h1>
-<h3 align="center">🚀 Backend Developer (.NET)</h3>
+<h3 align="center">🚀 Full-Stack .NET Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Ahmed%20Abd%20El-Aty%20Dabish;Backend%20Developer%20%7C%20.NET%20Developer&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&color2=0072FF&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Ahmed%20Abd%20El-Aty%20Dabish;Full-Stack%20.NET%20Developer;Backend%20%26%20Frontend%20Expert;Check%20out%20my%20popular%20repos;Follow%20to%20get%20more%20updates&font=Fira%20Code&center=true&width=800&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" />
 </p>
+
+<p align="center" dir="auto">
+    <a href="https://drive.google.com/file/d/11bWTZs_28DtG-6DDSxvETuKDxjAsWnqO/view?usp=sharing" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/00c7830315141995ff3de60bb81b93241c606643362f8c69f64b0ee5b1798140/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d792043562d3030353032303f7374796c653d666c6174" style="height: 35px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/My CV-005020?style=flat"></a> &nbsp;
+    <!-- <a href="https://a-hemeda.github.io/Portfolio" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/4766ba540c204b156adab2f0ca3ff9284a3adf14cc2a3d9c0427f4723ed89cd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7920506f7274666f6c696f2d3030353032303f7374796c653d666c6174" style="height: 35px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/My Portfolio-005020?style=flat"></a> -->
+  </p>
 
 
 ## 💫 About Me 
 
-- 🧑‍💻 I'm a **Software Engineer** and a **graduate of the Faculty of Computers and Information, Kafr El-Sheikh University**.  
-- ⚙️ I specialize in **Back-end Development** using **ASP.NET Core Web APIs**, following **Clean Architecture principles**.  
-- 🧠 I also have experience in **Artificial Intelligence (AI)** and love applying AI concepts to build **intelligent systems and APIs**.  
-- 🚀 I'm passionate about **learning new technologies**, improving my skills, and creating impactful software solutions.  
+- 🧑‍💻 **Full-Stack .NET Developer** | Graduate from **Faculty of Computers and Information, Kafr El-Sheikh University
+- ⚙️ Specialized in **ASP.NET Core**, **EF Core**, **SQL Server**, **Angular**, **RESTful APIs**, and **Clean Architecture**
+- 🤖 Experienced in **AI** (ML, DL, Computer Vision) integration and **Automation** (Selenium)
+- 💼 **Team Leader** at Electronic Center for Recruitment Services – Armed Forces 
+- 🚀 Passionate about **problem-solving** and delivering **high-quality software**
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
 
-
 ## 🧠 Languages & Tools
-
 
 <p align="center">
 
-  <!-- Core Backend (.NET) -->
+  <!-- Programming Languages -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" title="C#"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET Core / ASP.NET Core"/>
-  <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" width="45" title="Entity Framework Core"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
 
   <!-- Frontend -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" title="HTML5"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" title="CSS3"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" title="React"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="45" title="Angular"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
+
+  <!-- Backend -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET Core / ASP.NET Core"/>
+  <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" width="45" title="Entity Framework Core"/>
 
   <!-- Databases -->
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" title="SQL Server"/>
@@ -49,15 +58,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
   <img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/11/vs-icon.svg" width="45" title="Visual Studio"/>
 
-  <!-- DevOps / Architecture -->
+  <!-- DevOps -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="45" title="Azure"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" title="GitHub"/>
 
-  <!-- AI / Data -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" title="AI / OpenAI"/>
+  <!-- Testing -->
+  <img src="https://skillicons.dev/icons?i=selenium" width="45" title="Selenium"/>
+  
+  <!-- AI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" title="OpenAI"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" title="NumPy"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="45" title="Pandas"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Hugging Face"/>
+
+  <!-- Desktop --><!-- Desktop -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="45" title="WPF (Windows Presentation Foundation)"/>
 
 </p>
 
