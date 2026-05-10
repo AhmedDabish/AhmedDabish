@@ -26,7 +26,7 @@
 
 - 🧑‍💻 **Full-Stack .NET Developer** | Graduate from **Faculty of Computers and Information, Kafr El-Sheikh University
 - ⚙️ Specialized in **ASP.NET Core**, **EF Core**, **SQL Server**, **Angular**, **RESTful APIs**, and **Clean Architecture**
-- 🤖 Experienced in **AI** (ML, DL, Computer Vision) integration and **Automation** (Selenium)
+- 🤖 Experienced in **AI** (RAG ,LLM,AI Agent, ML, DL, Computer Vision) integration and **Automation** (Selenium)
 - 💼 **Team Leader** at Electronic Center for Recruitment Services – Armed Forces 
 - 🚀 Passionate about **problem-solving** and delivering **high-quality software**
 
