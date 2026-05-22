@@ -7,7 +7,7 @@
  
 <p align="center" dir="auto">
     <a href="https://gh-most-followed.pages.dev/egypt">
-      <img src="https://img.shields.io/badge/5ᵗʰ Most Followed User 🇪🇬-262827?style=flat-square&logo=github" height="32"/>
+      <img src="https://img.shields.io/badge/4ᵗʰ Most Followed User 🇪🇬-262827?style=flat-square&logo=github" height="32"/>
     </a>
     &nbsp;
 
