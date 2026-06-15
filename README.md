@@ -96,8 +96,7 @@
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
         </a>
       </td>
-        <td align="center" width="80">
-          
+        <td align="center" width="80">          
         <a href="mailto:ahmeddabish99@gmail.com" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
         </a>
