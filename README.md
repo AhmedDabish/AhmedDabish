@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Ahmed Abd El-Aty Dabish</span></h1>
 <h3 align="center">🚀 Full-Stack .NET Developer</h3>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Ahmed%20Abd%20El-Aty%20Dabish;Full-Stack%20.NET%20Developer;Backend%20%26%20Frontend%20Expert;Check%20out%20my%20popular%20repos;Follow%20to%20get%20more%20updates&font=Fira%20Code&center=true&width=800&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" />
 </p>
