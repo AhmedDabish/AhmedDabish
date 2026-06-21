@@ -9,7 +9,6 @@
       <img src="https://img.shields.io/badge/2ᵗʰ Most Followed User 🇪🇬-262827?style=flat-square&logo=github" height="32"/>
     </a>
     &nbsp;
-
 </p>
 <p align="center" dir="auto">
     <a href="https://drive.google.com/file/d/11bWTZs_28DtG-6DDSxvETuKDxjAsWnqO/view?usp=sharing" rel="nofollow">
