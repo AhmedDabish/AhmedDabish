@@ -17,7 +17,6 @@
       <img src="https://camo.githubusercontent.com/4766ba540c204b156adab2f0ca3ff9284a3adf14cc2a3d9c0427f4723ed89cd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7920506f7274666f6c696f2d3030353032303f7374796c653d666c6174" style="height: 35px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/My Portfolio-005020?style=flat"></a>
   </p>
  
-
 ## 💫 About Me 
 
 - 🧑‍💻 **Full-Stack .NET Developer** | Graduate from **Faculty of Computers and Information, Kafr El-Sheikh University
