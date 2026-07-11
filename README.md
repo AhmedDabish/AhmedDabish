@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Ahmed%20Abd%20El-Aty%20Dabish;Full-Stack%20.NET%20Developer;Backend%20%26%20Frontend%20Expert;Check%20out%20my%20popular%20repos;Follow%20to%20get%20more%20updates&font=Fira%20Code&center=true&width=800&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" /> 
 </p>
+
 <p align="center" dir="auto">
     <a href="https://gh-most-followed.pages.dev/egypt">
       <img src="https://img.shields.io/badge/2ᵗʰ Most Followed User 🇪🇬-262827?style=flat-square&logo=github" height="32"/>
