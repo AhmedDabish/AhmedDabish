@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./.github/workflows/elephant_animation_full.gif" alt="Most Followed User in Egypt" width="100%"/>
+</p>
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Ahmed Abd El-Aty Dabish</span></h1>
 <h3 align="center">🚀 Full-Stack .NET Developer</h3>
 
@@ -153,6 +156,3 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
-
-
-
