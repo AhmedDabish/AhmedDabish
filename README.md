@@ -140,7 +140,7 @@
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
         </a>
       </td>
-      <td align="center" width="80">
+      <td align="center" width="80"> 
         <a href="https://wa.me/201001415548" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/whatsapp.svg" width="48" height="48" alt="WhatsApp"/>
         </a>
