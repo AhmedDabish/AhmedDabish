@@ -167,20 +167,26 @@
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
 
-## 📊 GitHub Stats
-
+<details open>
+  <summary><h2>📊 GitHub Stats</h2></summary>
+  <br>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmedDabish&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=AhmedDabish&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/AhmedDabish">
+    <img alt="Ahmed's GitHub stats" width="49%" src="https://gh-readme-profile.vercel.app/api?username=AhmedDabish&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" />
+  </a>
+  <a href="https://github.com/AhmedDabish">
+    <img alt="Ahmed's GitHub Stats" width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AhmedDabish&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
+  </a>
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDabish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedDabish&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/AhmedDabish">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahmed's streak" width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=AhmedDabish&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
+  </a>
+  <a href="https://github.com/AhmedDabish">
+    <img alt="Ahmed's Top Languages" width="35%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AhmedDabish&langs_count=20&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
+  </a>
 </p>
-
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
+</details>
 
 ## 🏆 GitHub Trophies
 <p align="center">
