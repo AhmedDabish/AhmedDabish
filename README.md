@@ -55,7 +55,9 @@
   >
 </a>
 
- 
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedDabish&label=Profile%20views&color=0e75b6&style=flat&base=45000" alt="Profile views" />
+</p>
   </p>
  
 ## 💫 About Me 
