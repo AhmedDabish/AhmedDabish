@@ -18,7 +18,7 @@
     <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-dabish-14b758230/" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=1&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=✅+Open+to+Work" alt="Open to Work" />  
-    
+  
     &nbsp;
 </p> 
 -->
